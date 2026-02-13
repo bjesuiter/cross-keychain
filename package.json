@@ -1,5 +1,5 @@
 {
-  "name": "cross-keychain",
+  "name": "@bjesuiter/cross-keychain",
   "version": "1.1.0",
   "description": "Cross-platform secret storage",
   "author": {
@@ -72,12 +72,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/magarcia/cross-keychain.git"
+    "url": "git+https://github.com/bjesuiter/cross-keychain.git"
   },
   "bugs": {
-    "url": "https://github.com/magarcia/cross-keychain/issues"
+    "url": "https://github.com/bjesuiter/cross-keychain/issues"
   },
-  "homepage": "https://github.com/magarcia/cross-keychain#readme",
+  "homepage": "https://github.com/bjesuiter/cross-keychain#readme",
   "dependencies": {
     "@inquirer/prompts": "^7.9.0",
     "meow": "^14.0.0"
