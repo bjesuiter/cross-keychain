@@ -14,7 +14,6 @@ jobs:
     name: Check Dependencies
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    if: github.repository != 'bjesuiter/cross-keychain'
     permissions:
       contents: read
       issues: write
